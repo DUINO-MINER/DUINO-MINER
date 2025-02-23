@@ -1,19 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**DUINO-MINER/DUINO-MINER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 I’m currently learning the basics of Rust, Git, and GitHub.
+- 🔭 I’m currently working on a password generator built in Rust.
+- ⚡ Fun fact: I'm a One Piece fan!
 
-Here are some ideas to get you started:
+## Contact
+- 📫 How to reach me: kixew34@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- I'm currently learning the basics of rust git and github
-- I'm currently working on a password generator builded in rust
-- Fun fact: One piece fan
+## Skills
+- Programming Languages: Rust, Java and Python
+- Tools: Git, GitHub
+
+## Help
+- 🤔 I’m looking for help with all (I think)
+
+## More About Me
+- 💬 Ask me about im a new programer
