@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I'm currently learning the basics of rust git and github
+- I'm currently working on a password generator builded in rust
+- Fun fact: One piece fan
