@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I'm a One Piece fan!
 
 ## Contact
-- 📫 How to reach me: kixew34@gmail.com
+- 📫 How to reach me: kixew34@gmail.com and i can't access to Discord
 
 ## Skills
 - Programming Languages: Rust, Java and Python
